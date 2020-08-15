@@ -1,0 +1,8 @@
+setxkbmap str &
+xrdb ~/.config/Xresources &
+dwmblocks &
+picom -f &
+nitrogen --restore &
+xset r rate 300 50 &
+unclutter &
+
