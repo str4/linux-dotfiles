@@ -2,10 +2,11 @@
 
 # This file runs when a DM logs you into a graphical session
 
-xmodmap ~/.Xmodmap &
 setxkbmap str &       # load custom keymaps
+xrdb $HOME/.Xresources &
 picom &
 nitrogen --restore &
 xset r rate 300 50 &
 udiskie &
+sleep 2 && xmodmap $HOME/.Xmodmap & # Needs to have a bit of sleep here to avoid race conditions
 
