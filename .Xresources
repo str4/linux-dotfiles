@@ -1,5 +1,5 @@
 !! Set a default font and font size as below:
-*.font: MesloLGS Nerd Font:size=12
+*.font: Iosevka:size=13:antialias=true
 
 /* My own custom palette */
 
@@ -25,8 +25,8 @@
 *.color12:      #00afff
 
 ! magenta
-*.color5:       #fa5477
-*.color13:      #fa5477
+*.color5:       #E67E22
+*.color13:      #E67E22
 
 ! cyan
 *.color6:       #0087af

@@ -7,3 +7,5 @@ alias vi="$EDITOR"
 
 alias rg="ranger"
 
+alias dot="cd ~/dotfiles"
+
