@@ -3,37 +3,38 @@
 
 /* My own custom palette */
 
+
 ! black
-*.color0:       #282C34
-*.color8:       #282C34
+*.color0:       #22272d
+*.color8:       #6A777E
 
 ! red
-*.color1:       #FF6059
-*.color9:       #FF6059
+*.color1:       #ef4b4b
+*.color9:       #ef4b4b
 
 ! green
-*.color2:       #5FFF87
-*.color10:      #5FFF87
+*.color2:       #5FD75F
+*.color10:      #5FD75F
 
 ! yellow
-*.color3:       #fba922
-*.color11:      #fba922
+*.color3:       #ECC46F
+*.color11:      #ECC46F
 
 ! blue
-*.color4:       #3971ed
-*.color12:      #3971ed
+*.color4:       #00afff
+*.color12:      #00afff
 
 ! magenta
-*.color5:       #AF87FF
-*.color13:      #AF87FF
+*.color5:       #fa5477
+*.color13:      #fa5477
 
 ! cyan
-*.color6:       #3971ed
-*.color14:      #3971ed
+*.color6:       #0087af
+*.color14:      #0087af
 
 ! white
-*.color7:       #FFFFFF
-*.color15:      #FFFFFF
+*.color7:       #6A777E
+*.color15:      #f2f2f4
 
 /* DWM Colors (requires changing appropriate variables in dwm.c) */
 
@@ -43,3 +44,4 @@ dwm.normfgcolor: #bbbbbb
 dwm.selfgcolor: #eeeeee
 dwm.selbordercolor: #FF6059
 dwm.selbgcolor: #222222
+
