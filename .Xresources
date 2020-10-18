@@ -1,5 +1,5 @@
 !! Set a default font and font size as below:
-*.font: Iosevka:size=13:antialias=true
+*.font: MesloLGS NF:size=13:antialias=true
 
 /* My own custom palette */
 
@@ -44,4 +44,6 @@ dwm.normfgcolor: #bbbbbb
 dwm.selfgcolor: #eeeeee
 dwm.selbordercolor: #FF6059
 dwm.selbgcolor: #222222
+
+Xcursor.size: 32
 
